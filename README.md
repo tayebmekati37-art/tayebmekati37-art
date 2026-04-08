@@ -17,7 +17,7 @@ I build full‑stack web apps with Python (Flask) and love combining technology 
 ---
 
 ## 📌 Featured Projects
--[loom](https://github.com/tayebmekati37-art/loom) - Loom is a lightweight, extensible tool that translates legacy code (COBOL, RPG, PL/I, and a simple mini‑language) into modern languages 
+- [loom](https://github.com/tayebmekati37-art/loom) - Loom is a lightweight, extensible tool that translates legacy code into modern languages 
 - [StudyFlow](https://github.com/tayebmekati37-art/studyflow) – Japanese vocabulary tracker with AI tools
 - [Tokyo Train Alert](https://github.com/tayebmekati37-art/tokyo-train-alert) – Automated train delay alerts
 - [PriceAlertEngine](https://github.com/tayebmekati37-art/price-alert-engine) – Real‑time price alerts

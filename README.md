@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Tayeb Mekati
 
-📍 Algeria | 🇯🇵 Open to opportunities in Japan
 
 I build full‑stack web apps with Python (Flask) and love combining technology with culture.
 

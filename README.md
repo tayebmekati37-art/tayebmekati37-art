@@ -29,6 +29,4 @@ I build full‑stack web apps with Python (Flask) and love combining technology 
 - Email: [tayebmekati37@gmail.com](mailto:tayebmekati37@gmail.com)
 - LinkedIn: [linkedin.com/in/tayeb-mekati](https://linkedin.com/in/tayeb-mekati)
 
----
 
-私はフルスタックエンジニアで、日本での就職を目指しています。Python (Flask) を使ったWebアプリケーション開発が得意です。このプロフィールにある４つのプロジェクトは、私の技術力と日本文化への興味を示しています。

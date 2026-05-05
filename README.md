@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tayeb Mekati
 
 
-I build full‑stack web apps with Python (Flask) and love combining technology with culture.
+I build full‑stack web apps and software  with rust and  Python  and love combining technology with culture.
 
 ---
 

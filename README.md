@@ -7,7 +7,7 @@ I build full‑stack web apps and software  with rust and  Python  and love comb
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, SQL
+- **Languages**: Rust, Python, JavaScript, SQL
 - **Web**: Flask, Bootstrap, Chart.js
 - **AI**: Google Gemini API, FAISS, spaCy
 - **Databases**: MySQL, SQLite, PostgreSQL

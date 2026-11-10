@@ -16,11 +16,12 @@ I build full‑stack web apps and software  with rust and  Python  and love comb
 ---
 
 ## 📌 Featured Projects
-- [loom](https://github.com/tayebmekati37-art/loom) - Loom is  extensible tool that translates legacy code into modern languages 
-- [StudyFlow](https://github.com/tayebmekati37-art/studyflow) – Japanese vocabulary tracker with AI tools
-- [Tokyo Train Alert](https://github.com/tayebmekati37-art/tokyo-train-alert) – Automated train delay alerts
-- [PriceAlertEngine](https://github.com/tayebmekati37-art/price-alert-engine) – Real‑time price alerts
-- [Deep Personal Search](https://github.com/tayebmekati37-art/deep-personal-search) – AI search engine with knowledge graph
+- [loom](https://github.com/tayebmekati37-art/loom) - Loom is  extensible tool that translates legacy code into modern languages.
+- [bimguard](https://github.com/tayebmekati37-art/bimguard) - Version control tells you what changed. BIMGuard tells you what that change could affect.                                  
+- [StudyFlow](https://github.com/tayebmekati37-art/studyflow) – Japanese vocabulary tracker with AI tools.
+- [Tokyo Train Alert](https://github.com/tayebmekati37-art/tokyo-train-alert) – Automated train delay alerts.
+- [PriceAlertEngine](https://github.com/tayebmekati37-art/price-alert-engine) – Real‑time price alerts.
+- [Deep Personal Search](https://github.com/tayebmekati37-art/deep-personal-search) – AI search engine with knowledge graph.
 
 ---
 
